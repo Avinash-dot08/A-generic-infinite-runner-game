@@ -1,0 +1,15 @@
+body{
+    background: #e9a2a2;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  #container{
+    margin-top: 10%;
+    display: inline-block;
+  }
+  canvas{
+    background: #906e6e;
+    border: 1px solid #181818;
+  }
